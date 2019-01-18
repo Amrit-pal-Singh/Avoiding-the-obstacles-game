@@ -1,4 +1,4 @@
-This is ’Avoiding the obstacles’ game in Verilog
+# ’Avoiding the obstacles’ game in Verilog
 
 Wrote program in Verilog( Hardware Discription language ) and output is shown on the seven segment 
 display of Atrix-7 FPGA board.
